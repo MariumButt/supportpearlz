@@ -1,0 +1,13 @@
+sku,product_name,description,list_price_pkr,promo_price_pkr,availability
+AP500-PRO,AquaPearl 500 Pro,Premium water purifier,89500,84900,in_stock
+AP300,AquaPearl 300,Standard water purifier,62900,59900,in_stock
+AERO-MINI,AeroPearl Mini,Compact air purifier,34900,32900,in_stock
+AP500-SED,AquaPearl 500 Sediment Filter,Stage 1 replacement,2650,2450,in_stock
+AP500-CARB,AquaPearl 500 Carbon Filter,Stage 2 replacement,3950,3650,in_stock
+AP500-MEM,AquaPearl 500 Membrane,RO membrane,12900,11900,limited
+AP500-MIN,AquaPearl 500 Mineral Cartridge,Post-treatment cartridge,4250,3990,in_stock
+AP300-SED,AquaPearl 300 Sediment Filter,AquaPearl 300 replacement,2250,2100,in_stock
+AERO-FLT,AeroPearl Mini Filter,HEPA/carbon filter,6950,6490,in_stock
+AP500-KIT,AquaPearl 500 Annual Filter Bundle,Sediment + carbon + mineral,10850,9490,in_stock
+AP200,AquaPearl 200,Discontinued model,0,0,discontinued
+AERO-CLASSIC,AeroPearl Classic,Discontinued model,0,0,discontinued

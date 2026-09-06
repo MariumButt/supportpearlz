@@ -1,0 +1,13 @@
+SUPPORTPEARLZ DATASET DESIGN NOTES
+
+PLANTED GAPS:
+1. Student discount availability is not approved/documented.
+2. NSF certification is not documented.
+3. Monthly instalment plans are not documented.
+4. Real order tracking numbers are not in the static knowledge base.
+
+CROSS-DOCUMENT SEAMS:
+1. Bad taste after filter change points to the 10-litre flush in Installation Guide.
+2. Leak plus damaged cabinet needs Warranty Policy and Service Reference.
+3. Warranty claim documents plus detailed inspection workflow span Warranty and Service documents.
+4. Three-beep meaning uses Troubleshooting plus Product Changelog version context.
