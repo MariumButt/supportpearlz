@@ -548,10 +548,23 @@ st.set_page_config(
 st.markdown(
     """
     <style>
-    /* Main page */
+        /* Main page */
     .stApp {
         background: linear-gradient(135deg, #f4fbff 0%, #f8f7ff 55%, #fff9f4 100%);
     }
+
+    /* Force heading text to dark color */
+    h1, h1 span, .stApp h1 {
+        color: #1e293b !important;
+        -webkit-text-fill-color: #1e293b !important;
+        background: none !important;
+    }
+
+    .stCaption, .stCaption p {
+        color: #475569 !important;
+    }
+
+
 
     /* Sidebar */
     section[data-testid="stSidebar"] {
@@ -565,7 +578,7 @@ st.markdown(
         border-radius: 12px;
         border: 1px solid #8ec5ff;
         background: linear-gradient(90deg, #4facfe 0%, #6f86ff 100%);
-        color: white;
+        color: blue;
         font-weight: 600;
     }
 
